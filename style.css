@@ -1,0 +1,46 @@
+  .huion
+  {
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px grey;
+    font-size: 25px;
+  }
+  .nioun
+  {
+    background: white ; 
+    border-radius: 20px; 
+    color: black;
+    box-shadow:5px 5px 5px grey;
+    float: none;
+    padding: 11px;
+  }
+  .fion
+  {
+    font-size: 18px ;
+  }
+  .obj
+  {
+    box-shadow:5px 10px 15px grey;
+    font-size: 20px;
+  }
+ body{
+   background-image: url(background.jpg);
+ }
+.obj span {
+  white-space: pre-line;
+}
+.copy_right_footer{
+  bottom:0;
+  position: fixed;
+  color: rgb(255, 0, 0);
+  background-color: aquamarine;
+  text-align: center;
+  width: 100%;
+  margin-top: 20px;
+}
+canvas{
+  border: 5px solid rgb(15, 15, 41);
+  border-top-left-radius: 70px ;
+  border-bottom-right-radius: 70px;
+  margin-top: 170px;
+}
